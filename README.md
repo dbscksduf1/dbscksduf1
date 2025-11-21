@@ -1,19 +1,24 @@
-🧑‍💻 About me
-<p align="left"> <a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://www.youtube.com/@your_youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a> </p>
-👋 Hi, I'm Chan Yeol Yun, a developer who builds ideas into reality.
+<h1 align="left">Hi 👋, I'm This is Chanyel Yun, a developer who codes dreams.</h1>
+<h3 align="left">i am workin with the mission of change the world a better than yesterday!</h3>
 
-I aim to create practical services that make life simpler.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbscksduf1&label=Profile%20views&color=0e75b6&style=flat" alt="dbscksduf1" /> </p>
 
-All of my portfolio projects are available at 👉 My Notion Portfolio
+- 🔭 I’m currently working on [HealthManager](https://github.com/dbscksduf1/HealthManager)
+- 🌱 I’m currently learning **Spring Boot, React, IoT, Database**
+- 👯 I’m currently working [Smart Home System](Smart Home System | https://github.com/dbscksduf1/SmartHome)
+- 👨‍💻 All of my projects are available at [https://yourNotionPortfolioLink](https://yourNotionPortfolioLink)
+- 💬 Ask me about **Java, Spring Boot, React, IoT systems**
+- 📫 How to reach me **yeol6068@daum.net**
 
-Feel free to ask me about Spring Boot / IoT / React
 
-📫 How to reach me: your_email@gmail.com
+<p align="left">
+</p>
 
-🛠️ languages and tools
-<p align="left"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> </p>
-<p> <img src="https://img.shields.io/badge/Followers-42-red?style=social&logo=github"/> <img src="https://img.shields.io/badge/Subscribers-4k-red?style=social&logo=youtube"/> <img src="https://img.shields.io/badge/Views-659k-red?style=social&logo=youtube"/> </p>
-📊 my github stats
-<div align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbscksduf1&show_icons=true&locale=en&layout=compact" alt="dbscksduf1" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dbscksduf1&show_icons=true&locale=en" alt="dbscksduf1" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dbscksduf1&" alt="dbscksduf1" /></p>
