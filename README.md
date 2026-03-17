@@ -17,13 +17,13 @@
 
 - 🏋️ HealthManager  
 → JWT 기반 인증 및 BMI 기반 운동 추천 서비스  
-→ OpenAI API + 캐싱 적용으로 응답 속도 최적화 (2000ms → 200ms)  
-→ K6 부하 테스트를 통해 동시 사용자 200명 환경에서도 안정성 검증  
+→ OpenAI API + 캐싱 적용으로 응답 속도 최적화 (2000ms → 200ms)    
 → JPA(Hibernate) 기반 ORM 설계 및 전역 예외 처리로 유지보수성 개선  
 👉 https://github.com/dbscksduf1/HealthManager
 
 - 🏠 **Smart Home System**  
-  → MQTT 기반 IoT 환경 모니터링 시스템  
+  → MQTT 기반 IoT 환경 모니터링 시스템
+  → HTTP 기반 처리 한계를 해결하기 위해 MQTT 비동기 메시지 구조 적용
   👉 https://github.com/dbscksduf1/SmartHome
 
 ---
