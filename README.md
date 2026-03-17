@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
 ### Back-End
 - Java  
@@ -42,7 +42,7 @@
 
 </td>
 
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
 ### Front-End
 - React  
@@ -50,7 +50,7 @@
 
 </td>
 
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
 ### Database
 - MySQL  
