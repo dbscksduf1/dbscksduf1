@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm This is Chanyel Yun, a developer who codes dreams.</h1>
+<h1 align="left">Hi 👋, I'm Chanyeol Yun, a developer who codes dreams.</h1>
 <h3 align="left">i am workin with the mission of change the world a better than yesterday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbscksduf1&label=Profile%20views&color=0e75b6&style=flat" alt="dbscksduf1" /> </p>
