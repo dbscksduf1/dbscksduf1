@@ -75,7 +75,7 @@
 
 ### 📫 Contact
 
-- Email: **yeol6068@daum.net**
+- Email: yeol6068@daum.net
 
 
 
@@ -87,9 +87,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbscksduf1&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dbscksduf1&show_icons=true&locale=en" />
-</p>
+
 
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dbscksduf1" />
