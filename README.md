@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Main Project
+##  Main Project
 
 - 💬 **Y-Chat**  
   → WebSocket + Redis Pub/Sub 기반 실시간 채팅 서비스  
@@ -25,20 +25,40 @@
 
 ---
 
-### 🛠 Tech Stack
+<h3 align="left">🛠 Skill</h3>
 
-**Backend**
-- Java, Spring Boot, Spring Security, JPA
-- WebSocket (STOMP), Redis (Pub/Sub), JWT
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Frontend**
-- React, JavaScript
+### Back-End
+- Java  
+- Spring Boot  
+- WebSocket  
+- Redis  
+- JWT  
+- OpenAI API  
+- MQTT  
 
-**Database**
-- PostgreSQL, MySQL
+</td>
 
-**Infra / Tools**
-- Docker, Git, Postman
+<td width="33%" valign="top">
+
+### Front-End
+- React  
+- JavaScript  
+
+</td>
+
+<td width="33%" valign="top">
+
+### Database
+- MySQL  
+- PostgreSQL  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,21 +74,9 @@
 
 - Email: **yeol6068@daum.net**
 
----
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> </a> 
-<a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/> </a>
-</p>
+
 
 ---
 
