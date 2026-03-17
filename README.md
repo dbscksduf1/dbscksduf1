@@ -22,8 +22,8 @@
 👉 https://github.com/dbscksduf1/HealthManager
 
 - 🏠 **Smart Home System**  
-  → MQTT 기반 IoT 환경 모니터링 시스템
-  → HTTP 기반 처리 한계를 해결하기 위해 MQTT 비동기 메시지 구조 적용
+  → MQTT 기반 IoT 환경 모니터링 시스템  
+  → HTTP 기반 처리 한계를 해결하기 위해 MQTT 비동기 메시지 구조를 적용하여 실시간 데이터 처리 개선  
   👉 https://github.com/dbscksduf1/SmartHome
 
 ---
