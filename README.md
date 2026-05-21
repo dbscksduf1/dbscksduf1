@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Chanyeol Yun, a Backend Developer.</h1>
+<h1 align="left"> I'm Chanyeol Yun, a Backend Developer.</h1>
 <h3 align="left">I build scalable real-time systems and solve performance problems.</h3>
 
 <p align="left"> 
