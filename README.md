@@ -12,18 +12,18 @@
 
 
   
-- 💬 **Y-Chat**  
-  → WebSocket + Redis Pub/Sub 기반 실시간 채팅 서비스  
-  → 메시지 브로드캐스트 구조 개선 및 성능 최적화 경험  
-  → UnreadCount 최적화로 DB 부하 감소  
+- 💬 **[Y-Chat](https://y-chat-taupe.vercel.app/)**  
+  → WebSocket·Redis Pub/Sub 기반 실시간 채팅 서비스 (1:1 / 그룹 / 랜덤 매칭)     
+  → Redis 대기열 기반 랜덤 매칭으로 익명 채팅 구현, 방 정보 TTL 24시간 자동 만료     
+  → 채팅방 목록 조회 N+1 쿼리 → 3건으로 최적화     
   👉 https://github.com/dbscksduf1/Y-Chat
 
-- 🤖 **AI Career Lab**  
+- 🤖 **[AI Career Lab](https://ai-career-lab-rho.vercel.app/)**   
   → 사람인 크롤링 + Spring Batch 기반 맞춤 채용공고 주간 자동 추천 서비스   
   → JOIN FETCH·IN 쿼리 일괄 처리로 N+1 쿼리 51건 → 1건 (98% 감소)          
   👉 https://github.com/dbscksduf1/AI-Career-Lab
 
-- 🎫 **TicketNow**  
+- 🎫 **[TicketNow](http://16.184.46.184:3000/)**  
   → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼    
   → Redis SETNX 분산락으로 1,000명 동시 접속 환경에서 중복 예매 0건    
   → Kafka 비동기 이벤트 구조로 예매 서버와 이메일 서버 간 결합도 분리    
@@ -38,29 +38,50 @@
 <td width="100%" valign="top">
 
 ### Back-End
-- Java  
-- Spring Boot  
-- WebSocket  
-- Redis  
-- JWT  
-- OpenAI API  
-- MQTT  
+- Java 
+- Python
+- Spring Data JPA
+- Spring Batch
+- Spring Cloud Gateway
+- JWT
+- Redis
+- Kafka
+- QueryDSL
+- OAuth2
+- Jsoup
+- WebSocket (STOMP)
+- SSE (Server-Sent Events) 
 
 </td>
 
 <td width="100%" valign="top">
 
 ### Front-End
-- React  
-- JavaScript  
+- React
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Zustand
+- CSS 
 
 </td>
 
 <td width="100%" valign="top">
 
 ### Database
-- MySQL  
-- PostgreSQL  
+- MySQL
+- PostgreSQL
+- Redis 
+
+</td>
+
+<td width="100%" valign="top">
+
+### Infra
+- AWS EC2
+- Docker
+- Nginx
+- MSA (Microservice Architecture)
 
 </td>
 </tr>
