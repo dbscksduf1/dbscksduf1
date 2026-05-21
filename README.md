@@ -25,9 +25,9 @@
 👉 https://github.com/dbscksduf1/HealthManager
 
 - 🎫 **TicketNow**  
-  → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼  
-  → Redis SETNX 분산락으로 1,000명 동시 접속 환경에서 중복 예매 0건
-  → Kafka 비동기 이벤트 구조로 예매 서버와 이메일 서버 간 결합도 분리
+  → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼    
+  → Redis SETNX 분산락으로 1,000명 동시 접속 환경에서 중복 예매 0건    
+  → Kafka 비동기 이벤트 구조로 예매 서버와 이메일 서버 간 결합도 분리    
   👉 https://github.com/dbscksduf1/TicketNow
 
 ---
