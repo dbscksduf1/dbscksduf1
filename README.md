@@ -9,6 +9,13 @@
 
 ##  Main Project
 
+
+- 🎫 **TicketNow**
+  → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼
+  → Redis SETNX 분산락으로 1,000명 동시 접속 환경에서 중복 예매 0건 달성
+  → HikariCP 튜닝으로 처리량 23→47 req/s (+104%) 개선
+  👉 https://github.com/dbscksduf1/ticketing
+  
 - 💬 **Y-Chat**  
   → WebSocket + Redis Pub/Sub 기반 실시간 채팅 서비스  
   → 메시지 브로드캐스트 구조 개선 및 성능 최적화 경험  
