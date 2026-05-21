@@ -24,10 +24,11 @@
 → JPA(Hibernate) 기반 ORM 설계 및 전역 예외 처리로 유지보수성 개선  
 👉 https://github.com/dbscksduf1/HealthManager
 
-- 🏠 **Smart Home System**  
-  → MQTT 기반 IoT 환경 모니터링 시스템  
-  → HTTP 기반 처리 한계를 해결하기 위해 MQTT 비동기 메시지 구조를 적용하여 실시간 데이터 처리 개선  
-  👉 https://github.com/dbscksduf1/SmartHome
+- 🎫 **TicketNow**  
+  → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼  
+  → Redis SETNX 분산락으로 1,000명 동시 접속 환경에서 중복 예매 0건
+  → Kafka 비동기 이벤트 구조로 예매 서버와 이메일 서버 간 결합도 분리
+  👉 https://github.com/dbscksduf1/TicketNow
 
 ---
 
