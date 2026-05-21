@@ -18,11 +18,10 @@
   → UnreadCount 최적화로 DB 부하 감소  
   👉 https://github.com/dbscksduf1/Y-Chat
 
-- 🏋️ HealthManager  
-→ JWT 기반 인증 및 BMI 기반 운동 추천 서비스  
-→ OpenAI API + 캐싱 적용으로 응답 속도 최적화 (2000ms → 200ms)    
-→ JPA(Hibernate) 기반 ORM 설계 및 전역 예외 처리로 유지보수성 개선  
-👉 https://github.com/dbscksduf1/HealthManager
+- 🤖 **AI Career Lab**  
+  → 사람인 크롤링 + Spring Batch 기반 맞춤 채용공고 주간 자동 추천 서비스   
+  → JOIN FETCH·IN 쿼리 일괄 처리로 N+1 쿼리 51건 → 1건 (98% 감소)          
+  👉 https://github.com/dbscksduf1/AI-Career-Lab
 
 - 🎫 **TicketNow**  
   → Redis 대기열·분산락 기반 MSA 티켓팅 플랫폼    
